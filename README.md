@@ -3,7 +3,7 @@ for test
 import markdown
 
 text = """
-# Hello Worl
+# Hello World
 This is **Markdown** to HTML!
 """
 
