@@ -2,7 +2,7 @@
 for test
 import markdown
 
-tex = """
+text = """
 # Hello World
 This is **Markdown** to HTML!
 """
