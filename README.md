@@ -4,7 +4,7 @@ import markdown
 
 text = """
 # Hello World
-Thi is **Markdown** to HTML!
+This is **Markdown** to HTML!
 """
 
 html = markdown.markdown(text)
