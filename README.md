@@ -7,4 +7,4 @@ text = """
 This is **Markdown** to HTML!
 """
 
-htm = markdown.markdown(text)
+html = markdown.markdown(text)
